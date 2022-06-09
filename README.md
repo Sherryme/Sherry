@@ -32,7 +32,8 @@
 [![SQLServer](https://img.shields.io/badge/-MSSQL-eeeeee?style=flat-square&logo=MicrosoftSQLServer&logoColor=red)](#)
 [![Redis](https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis&logoColor=white)](#)
 
-Of course, most of the above are just beginner level.
+###### Of course, I am still a beginner at most of the above techniques.
+
 ### Software
 [![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=adobe%20photoshop&logoColor=white)](#)
 [![illustrator](https://img.shields.io/badge/-illustrator-orange?style=flat-square&logo=adobe%20illustrator&logoColor=white)](#)
