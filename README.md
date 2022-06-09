@@ -37,7 +37,6 @@
 ### Software
 [![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=adobe%20photoshop&logoColor=white)](#)
 [![illustrator](https://img.shields.io/badge/-illustrator-orange?style=flat-square&logo=adobe%20illustrator&logoColor=white)](#)
-
 [![Intellij](https://img.shields.io/badge/-Intellij_IDEA-eeeeee?style=flat-square&logo=Intellijidea&logoColor=black)](#)
 [![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](#)
 [![Visual Studio](https://img.shields.io/badge/-Visual_Studio-purple?style=flat-square&logo=visualstudio&logoColor=white)](#)
