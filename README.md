@@ -2,11 +2,11 @@
 
 ### I am Sherry,
 ##### an undergraduate majoring in Software Engineering. 
-##### I love programming, doodling Japanese-animation-style character and singing songs.
+##### I love programming, doodling Japanese-animation-style characters, and singing songs, wishing to create cool games someday.
 
-[![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sherryme)
-[![E-mail](https://img.shields.io/badge/-Email-FFE01B?style=for-the-badge&logo=mail.ru&logoColor=black)](mailto:i@sherry.cf)
-[![Blog](https://img.shields.io/badge/-Blog-red?style=for-the-badge&logo=jekyll&logoColor=white)](https://www.sherry.cf)
+[![Github](https://img.shields.io/badge/-sherryme-black?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sherryme)
+[![E-mail](https://img.shields.io/badge/-i@sherry.cf-FFE01B?style=for-the-badge&logo=mail.ru&logoColor=black)](mailto:i@sherry.cf)
+[![Blog](https://img.shields.io/badge/-blog.sherry.cf-red?style=for-the-badge&logo=jekyll&logoColor=white)](https://www.sherry.cf)
 
 ---
 
@@ -37,11 +37,6 @@ Of course, most of the above are just beginner level.
 [![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=adobe%20photoshop&logoColor=white)](#)
 [![illustrator](https://img.shields.io/badge/-illustrator-orange?style=flat-square&logo=adobe%20illustrator&logoColor=white)](#)
 
-
 [![Intellij](https://img.shields.io/badge/-Intellij_IDEA-eeeeee?style=flat-square&logo=Intellijidea&logoColor=black)](#)
 [![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](#)
 [![Visual Studio](https://img.shields.io/badge/-Visual_Studio-purple?style=flat-square&logo=visualstudio&logoColor=white)](#)
-
-[![FileZilla](https://img.shields.io/badge/-FileZilla-red?style=flat-square&logo=FileZilla&logoColor=white)](#)
-[![VMware Workstation](https://img.shields.io/badge/-VMware-eeeeee?style=flat-square&logo=vmware&logoColor=original)](#)
-[![Chrome](https://img.shields.io/badge/-Chrome-blue?style=flat-square&logo=googleChrome&logoColor=white)](#)
