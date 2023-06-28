@@ -18,7 +18,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
 [![BootStrap](https://img.shields.io/badge/-BootStrap-purple?style=flat-square&logo=BootStrap&logoColor=white)](#)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React&logoColor=original)](#)
-[![Vue.js](https://img.shields.io/badge/-React-gray?style=flat-square&logo=React&logoColor=original)](#)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js&logoColor=default)](#)
 [![jQuery](https://img.shields.io/badge/-jQuery-blue?style=flat-square&logo=jQuery&logoColor=white)](#)
 
 #### Back-End
