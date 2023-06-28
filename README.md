@@ -6,7 +6,7 @@
 
 [![Github](https://img.shields.io/badge/-sherryme-black?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sherryme)
 [![E-mail](https://img.shields.io/badge/-i@sherry.cf-FFE01B?style=for-the-badge&logo=mail.ru&logoColor=black)](mailto:i@sherry.cf)
-[![Blog](https://img.shields.io/badge/-blog.sherry.cf-red?style=for-the-badge&logo=jekyll&logoColor=white)](https://www.sherry.cf)
+<!-- [![Blog](https://img.shields.io/badge/-blog.sherry.cf-red?style=for-the-badge&logo=jekyll&logoColor=white)](https://www.github.com/Sherryme) -->
 
 ---
 
