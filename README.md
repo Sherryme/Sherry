@@ -24,23 +24,24 @@
 [![jQuery](https://img.shields.io/badge/-jQuery-blue?style=flat-square&logo=jQuery&logoColor=white)](#)
 
 #### Back-End
+[![C#](https://img.shields.io/badge/-C%23%20-green?style=flat-square&logo=dotnet&logoColor=white)](#)
+[![.NET](https://img.shields.io/badge/-.NET-blue?style=flat-square&logo=dotnet&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](#)
-[![C#](https://img.shields.io/badge/-C_sharp-green?style=flat-square&logo=csharp&logoColor=white)](#)
-[![.NET](https://img.shields.io/badge/-.NET-blue?style=flat-square&logo=dotnet&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)](#)
 
 #### Database
 [![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=MySQL&logoColor=white)](#)
-[![SQLServer](https://img.shields.io/badge/-MSSQL-eeeeee?style=flat-square&logo=MicrosoftSQLServer&logoColor=red)](#)
 [![Redis](https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis&logoColor=white)](#)
 
 ###### Of course, I am still a beginner at most of the above techniques.
 
 ### Software
 [![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm&logoColor=white)](#)
-[![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](#)
+[![Visual Studio](https://img.shields.io/badge/IDE-Visual_Studio-purple?style=flat-square&logo=visualstudio&logoColor=white)](#)
+[![VS Code](https://img.shields.io/badge/IDE-VS_Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](#)
 [![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=adobe%20photoshop&logoColor=white)](#)
 [![illustrator](https://img.shields.io/badge/-illustrator-orange?style=flat-square&logo=adobe%20illustrator&logoColor=white)](#)
-[![Visual Studio](https://img.shields.io/badge/-Visual_Studio-purple?style=flat-square&logo=visualstudio&logoColor=white)](#)
+[![Spine](https://img.shields.io/badge/-Spine-000?style=flat-square&logo=spine)](#)
+[![foobar2000](https://img.shields.io/badge/-foobar2000-000?style=flat-square&logo=foobar2000&logoColor=white)](#)
