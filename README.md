@@ -5,6 +5,7 @@
 ##### I love programming, doodling, and playing video games, wishing to create cool games someday.
 
 [![Github](https://img.shields.io/badge/-sherryme-black?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sherryme)
+[![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://sherry-game.itch.io/)
 <!-- [![E-mail](https://img.shields.io/badge/-i@sherry.cf-FFE01B?style=for-the-badge&logo=mail.ru&logoColor=black)](mailto:i@sherry.cf) -->
 <!-- [![Blog](https://img.shields.io/badge/-blog.sherry.cf-red?style=for-the-badge&logo=jekyll&logoColor=white)](https://www.github.com/Sherryme) -->
 
