@@ -45,5 +45,4 @@
 [![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=adobe%20photoshop&logoColor=white)](#)
 [![illustrator](https://img.shields.io/badge/-illustrator-orange?style=flat-square&logo=adobe%20illustrator&logoColor=white)](#)
 [![Spine](https://img.shields.io/badge/-Spine-000?style=flat-square&logo=spine)](#)
-[![Spotify](https://img.shields.io/badge/-Spotify-1ed760?style=flat-square&logo=spotify&logoColor=black)](#)
 [![foobar2000](https://img.shields.io/badge/-foobar2000-000?style=flat-square&logo=foobar2000&logoColor=white)](#)
