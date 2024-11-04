@@ -20,17 +20,11 @@
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white)](#)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React&logoColor=original)](#)
-[![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js&logoColor=default)](#)
 [![BootStrap](https://img.shields.io/badge/-BootStrap-purple?style=flat-square&logo=BootStrap&logoColor=white)](#)
-[![jQuery](https://img.shields.io/badge/-jQuery-blue?style=flat-square&logo=jQuery&logoColor=white)](#)
 
 #### Back-End
 [![C#](https://img.shields.io/badge/-C%23%20-green?style=flat-square&logo=dotnet&logoColor=white)](#)
 [![.NET](https://img.shields.io/badge/-.NET-blue?style=flat-square&logo=dotnet&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)](#)
 
 #### Database
 [![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=MySQL&logoColor=white)](#)
