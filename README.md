@@ -2,7 +2,7 @@
 
 ### I am Sherry,
 ##### a front-end web developer. 
-##### I love programming, doodling, and playing video games, wishing to create cool games someday.
+##### I love programming, and playing video games, wishing to create cool games someday.
 
 [![Github](https://img.shields.io/badge/-sherryme-black?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sherryme)
 [![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://sherry-game.itch.io/)
