@@ -12,21 +12,19 @@
 
 ### Technologies
 
-#### Front-End
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white)](#)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React&logoColor=original)](#)
-[![BootStrap](https://img.shields.io/badge/-BootStrap-purple?style=flat-square&logo=BootStrap&logoColor=white)](#)
-
 #### Back-End
 [![C#](https://img.shields.io/badge/-C%23%20-green?style=flat-square&logo=dotnet&logoColor=white)](#)
 [![.NET](https://img.shields.io/badge/-.NET-blue?style=flat-square&logo=dotnet&logoColor=white)](#)
 
 #### Database
 [![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=MySQL&logoColor=white)](#)
+
+#### Front-End
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white)](#)
 
 ###### Of course, I am still a beginner at most of the above techniques.
 
@@ -35,6 +33,5 @@
 [![Visual Studio](https://img.shields.io/badge/IDE-Visual_Studio-purple?style=flat-square&logo=visualstudio&logoColor=white)](#)
 [![VS Code](https://img.shields.io/badge/IDE-VS_Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](#)
 [![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=adobe%20photoshop&logoColor=white)](#)
-[![illustrator](https://img.shields.io/badge/-illustrator-orange?style=flat-square&logo=adobe%20illustrator&logoColor=white)](#)
 [![Spine](https://img.shields.io/badge/-Spine-000?style=flat-square&logo=spine)](#)
 [![foobar2000](https://img.shields.io/badge/-foobar2000-000?style=flat-square&logo=foobar2000&logoColor=white)](#)
