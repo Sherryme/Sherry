@@ -1,7 +1,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=sherryme&count_private=true&show_icons=true&hide_border=true" />
 
 ### I am Sherry,
-##### a front-end web developer. 
+##### a game developer. 
 ##### I love programming, and playing video games, wishing to create cool games someday.
 
 [![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sherryme)
@@ -18,6 +18,7 @@
 
 #### Database
 [![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=MySQL&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/-SQLite-044a64?style=flat-square&logo=SQLite&logoColor=white)](#)
 
 #### Front-End
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
@@ -29,9 +30,9 @@
 ###### Of course, I am still a beginner at most of the above techniques.
 
 ### Software
-[![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm&logoColor=white)](#)
-[![Visual Studio](https://img.shields.io/badge/IDE-Visual_Studio-purple?style=flat-square&logo=visualstudio&logoColor=white)](#)
-[![VS Code](https://img.shields.io/badge/IDE-VS_Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](#)
-[![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=adobe%20photoshop&logoColor=white)](#)
+[![Unreal Engine](https://img.shields.io/badge/Unreal-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white)](#)
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)](#)
+[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)](#)
 [![Spine](https://img.shields.io/badge/-Spine-000?style=flat-square&logo=spine)](#)
+[![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=adobe%20photoshop&logoColor=white)](#)
 [![foobar2000](https://img.shields.io/badge/-foobar2000-000?style=flat-square&logo=foobar2000&logoColor=white)](#)
